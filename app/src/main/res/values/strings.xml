@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">keywords</string>
+    <string name="hot_keywords">Từ khóa hot</string>
+    <string name="keyword">Keyword</string>
+</resources>
